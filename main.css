@@ -1,3 +1,28 @@
 body {
   background-color: olive;
 }
+
+
+h2 {
+  color: lightgoldenrodyellow;
+
+}
+
+p {
+  color: whitesmoke;
+}
+
+#factory {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 6px outset green;
+}
+
+#southernMiss {
+font-family: Georgia, 'Times New Roman', Times, serif;
+border: 8px double peachpuff;
+}
+
+#pumpkin {
+font-family: fantasy;
+border: 4px dotted khaki;
+}
